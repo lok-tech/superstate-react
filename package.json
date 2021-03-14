@@ -1,0 +1,18 @@
+{
+	"name": "lok-superstate-react",
+	"version": "1.0.0",
+	"description": "React Component use shared state",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lok-tech/superstate-react.git"
+	},
+	"author": "g0dlight",
+	"license": "ISC",
+	"dependencies": {
+		"lok-superstate": "^1.0.0"
+	}
+}
