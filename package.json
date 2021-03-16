@@ -13,6 +13,6 @@
 	"author": "Orel Hadad <orel@lok.tech> (https://github.com/g0dlight)",
 	"license": "ISC",
 	"dependencies": {
-		"lok-superstate": "^1.0.0"
+		"lok-superstate": "^1.0.1"
 	}
 }
